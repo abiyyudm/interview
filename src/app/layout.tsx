@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Interview Test - Product",
-  description: "Abiyyu Dzaky Muhammad",
+  description: "Mock Website for Technical Interview",
 };
 
 export default function RootLayout({
